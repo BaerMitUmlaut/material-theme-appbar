@@ -86,7 +86,7 @@
 
   {
     "class": "tab_label",
-    "fg": [255, 255, 255, 150]
+    "fg": [255, 255, 255]
   },
 
     // Tab selected label color
