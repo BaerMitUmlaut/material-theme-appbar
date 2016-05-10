@@ -121,7 +121,7 @@
     "layer1.opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" },
 
      // Dirty Icon
-    "layer2.texture": "Material Theme - Appbar/assets/commons/dirty_icon.png",
+    "layer2.texture": "Material Theme - Appbar/assets/commons/dirty_icon--hover.png",
     "layer2.inner_margin": 0,
 
     // Dirty Icon Hover
