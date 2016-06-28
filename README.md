@@ -1,6 +1,6 @@
 [![GitHub tag](https://img.shields.io/github/tag/equinusocio/material-theme-appbar.svg?style=flat-square)](https://github.com/equinusocio/material-theme-appbar/releases/latest)
 [![GitHub tag](https://img.shields.io/github/release/equinusocio/material-theme-appbar.svg?style=flat-square)](https://github.com/equinusocio/material-theme-appbar/releases)
-[![Downloads](https://img.shields.io/packagecontrol/dt/Material%20Theme%20Appbar.svg?colorB=80d4cd&style=flat-square)](https://packagecontrol.io/packages/Material%20Theme)
+[![Downloads](https://img.shields.io/packagecontrol/dt/Material%20Theme%20Appbar.svg?colorB=80d4cd&style=flat-square)](https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar)
 # Material Theme - Appbar
 
 With this addon you can add a tinted app bar to your [Material Theme](https://github.com/equinusocio/material-theme) installation. ~~This addon auto fits with material theme accent colors!~~
