@@ -476,3 +476,52 @@
     "layer1.texture": "Material Theme - Appbar/assets/cyan/sidebar_heading--small.png",
   },
 
+
+  // BROWN ACCENT
+  // ##################################################################
+
+  {
+    "class": "tabset_control",
+    "settings": ["material_theme_appbar_brown"],
+    "layer0.tint": [121, 85, 72],
+  },
+
+  {
+    "class": "tab_control",
+    "settings": ["material_theme_appbar_brown"],
+    "layer0.tint": [121, 85, 72],
+    "layer1.texture": "Material Theme - Appbar/assets/brown/tab_current.png",
+    "layer3.texture": {
+            "keyframes":
+            [
+              "Material Theme - Appbar/assets/brown/tab_animation1.png",
+              "Material Theme - Appbar/assets/brown/tab_animation2.png",
+              "Material Theme - Appbar/assets/brown/tab_animation3.png",
+              "Material Theme - Appbar/assets/brown/tab_animation4.png",
+              "Material Theme - Appbar/assets/brown/tab_animation5.png",
+              "Material Theme - Appbar/assets/brown/tab_animation6.png",
+              "Material Theme - Appbar/assets/brown/tab_animation7.png",
+              "Material Theme - Appbar/assets/brown/tab_animation8.png",
+              "Material Theme - Appbar/assets/brown/tab_animation9.png",
+              "Material Theme - Appbar/assets/brown/tab_animation10.png",
+              "Material Theme - Appbar/assets/brown/tab_animation11.png",
+              "Material Theme - Appbar/assets/brown/tab_animation12.png",
+              "Material Theme - Appbar/assets/brown/tab_animation13.png"
+            ],
+            "loop": false,
+            "frame_time": 0.015,
+    }
+  },
+
+  {
+    "class": "sidebar_container",
+    "settings": ["material_theme_appbar_brown"],
+    "layer0.tint": [111, 78, 66],
+    "layer1.texture": "Material Theme - Appbar/assets/brown/sidebar_heading.png"
+  },
+
+  {
+    "class": "sidebar_container",
+    "settings": ["material_theme_small_tab", "material_theme_appbar_brown"],
+    "layer1.texture": "Material Theme - Appbar/assets/brown/sidebar_heading--small.png",
+  },
